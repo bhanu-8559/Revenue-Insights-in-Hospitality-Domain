@@ -6,7 +6,7 @@ Live Dashboard : https://app.powerbi.com/view?r=eyJrIjoiNzhjZWNlNGUtNjc3MS00ODBj
 
 Welcome to the readme file for the AtliQ Grands Data Analytics Project focusing on revenue management within the hospitality domain. 
 This project aims to leverage business and data intelligence to help AtliQ Grands regain market share and revenue in the luxury/business hotels category. 
-As an external data analyst, you have been tasked with analyzing historical data and creating a dashboard to provide actionable insights to the revenue management team.
+As an external data analyst, analyzing historical data and creating a dashboard to provide actionable insights to the revenue management team.
 
 ## Project Overview:
 
@@ -22,7 +22,7 @@ To address this, the managing director has initiated a strategic move to incorpo
 
 ## Task Details:
 
-As a data analyst for this project, your main tasks include:
+As a data analyst for this project, main tasks include:
 
 1. **Metric Creation:** Develop metrics according to the provided metric list to track key performance indicators related to revenue management.
 2. **Dashboard Creation:** Design and develop a dashboard based on the mock-up provided by stakeholders, showcasing relevant metrics and insights.
